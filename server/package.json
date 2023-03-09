@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "build": "npm run build",
-    "start": "node index.js"
+    "start": "nodemon index.js"
   },
   "author": "Aditya Raj",
   "license": "ISC",
